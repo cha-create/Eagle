@@ -1,0 +1,3 @@
+CHANGE layer tNames; CHANGE rank 3; CHANGE pour solid; SET WIRE_BEND 2;
+wire GND 0.1mm (191.611465mm 54.731720mm) (191.611465mm 48.052795mm);
+wire GND 0.1mm (184.104523mm 54.697723mm) (184.104523mm 48.018799mm);

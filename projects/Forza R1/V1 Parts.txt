@@ -1,0 +1,60 @@
+Partlist
+
+Exported from Forza R1.brd at 4/30/2023 10:02 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value            Package                   Library         Position (mm)         Orientation
+
+C1       10uf             C1206                     rcl             (31.29 83.09)         R0                      SOURCED   C
+C2       1uf              C1206                     rcl             (48.91 18.16)         R90                     S                   C
+C3       10uf             C1206                     rcl             (43.065 38.778)       R270               SOURCED    C
+C4       10uf             C1206                     rcl             (46.773 38.727)       R90                SOURCED    C
+C5       0.1uf            C1206                     rcl             (41.965646875 48.8323375) R315  S                  C
+C6       0.1uf            C1206                     rcl             (25.071715625 31.78485) R315        S                   C
+C7       0.1uf            C1206                     rcl             (22.365646875 29.308075) R315    S                C
+C8       0.1uf            C1206                     rcl             (21.485859375 48.542425) R45     S                 C 
+C9       1uf              C1206                     rcl             (45.51 68.3)          R90                      S                 C
+C10      15pf             C1206                     rcl             (21.59 38.81)         R270                   S                 C
+C11      15pf             C1206                     rcl             (17.89 38.76)         R270                   S                  C
+C12      1000uf           C1206                     rcl             (39.54544375 46.2818375) R315  S                  C
+C13      0.1uf            C1206                     rcl             (31.27 80.74)         R0                      S                  C
+C14      0.1uf            C1206                     rcl             (41.96 68.32)         R90                    S                  C
+C15      100nF/0.1uF            C1206                     rcl             (22.573 68.3)         R270      S                  C
+C16      100nF/0.1uF            C1206                     rcl             (19.51 68.31)         R90          S                C
+C17      0.1uf            C1206                     rcl             (7.26 75.57)          R90                    S                C
+C18      0.1uf            C1206                     rcl             (3.66 75.62)          R90                    S                C
+D1       WS2812_2020      WS2812-2020               SparkFun-LED    (35.091146875 49.746225) R90      S     C
+D2       WS2812_2020      WS2812-2020               SparkFun-LED    (29.166396875 49.74218125) R90   S    C
+FB       30 Ohm           C1206                     rcl             (49.27 68.33)         R270            S              C
+IC1      7805TV           TO220V                    linear          (57.15 16.39)         R0               S              C
+IC2      LD117AV          TO220L1                   v-reg           (6.99 23.05)          R0            S               C
+JP1                       1X02                      pinhead         (31.41 86.77)         R0                     S               C
+JP2                       2X10                      pinhead         (59 30.67)            R270                 S               C
+JP3                       2X03                      pinhead         (31.6 4.45)           R270                 S               C
+Q5       IRLZ44N          TO254P1054X469X1930-3     IRLZ44N         (42.53 75.65)         R0  S    C
+Q6       IRLZ44N          TO254P1054X469X1930-3     IRLZ44N         (20.1 75.65)          R0    S    C
+R1       10K              R1206                     rcl             (43.00908125 30.1192) R45              S            C
+R2       470Ohm           R1206                     rcl             (24.119203125 46.035353125) R45      S  C
+R3       1K               R1206                     rcl             (40.33535625 32.3212125) R45      S             C
+R4       10K              R1206                     rcl             (34.91 75.46)         R90                  S             C
+R5       10K              R1206                     rcl             (31.31 75.48)         R90                   S             C
+R6       10K              R1206                     rcl             (27.66 75.46)         R90                 S              C
+R7       100Ohm           R1206                     rcl             (15.31 50.05)         R90               S              C
+R8       1Ohm             R1206                     rcl             (35.71 82.49)         R90                S               C    
+R9       470Ohm           R1206                     rcl             (51.71 75.56)         R90              S                C
+R10      1Ohm             R1206                     rcl             (27.06 82.52)         R90                S               C
+R11      470Ohm           R1206                     rcl             (10.971 75.549)       R270           S               C
+S1                        B3F-10XX                  switch-omron    (59.09 59.92)         R90         S              C
+U$1      ATSAMD2164TQFP   SAMD21                    Atmel ATSAMD21  (25.107071875 39.20706875) R45     S    C
+U$2      BUZZER           BUZZER                    buzzer          (7.09 46.45)          R0         S             C
+U$3      MICRO-USB        MICRO-USB                 MicroUSB        (62.33 70.79)         R90                     S    C
+U$4      SCREWTERMINAL    SCREWTERMINAL             screw terminal  (37.44 87.79)         R270   S    C
+U$5      SCREWTERMINAL    SCREWTERMINAL             screw terminal  (15.34 87.78)         R270    S     C   
+U$7      MICROSD-PUSH-OUT MICROSD-PUSH-OUT          cmsd2           (14.52 70.32)         R270      S     C
+U$8      SCREWTERMINAL    SCREWTERMINAL             screw terminal  (62.57 54.36)         R180     S     C
+U1       BNO055           LGA28R50P4X10_380X520X100 BNO055          (34.64 68.59)         R180            S      C
+U2       BMP280           XDCR_BMP280               SBMP280         (28.27 68.54)         R270                      S      C
+Y1       32.768kHz        CRYSTAL-PTH-2X6-CYL       SparkFun-Clocks (32.062846875 28.015634375) R180   S    C

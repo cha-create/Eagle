@@ -1,0 +1,110 @@
+# NetScript
+# 
+# Exported from Forza.sch at 2/27/2022 2:12 PM
+# 
+# EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+# 
+Change Class 0;
+Signal '+5V'      'BATT'     '1' \
+                  'IC1'      '1' \
+                  'IC1'      '3' \
+                  'Q1'       'S' \
+                  'Q2'       'S' \
+                  'SERVOX'   '2' \
+                  'SERVOY'   '2' \
+                  'U$1'      'VIN' \
+                  ;
+Change Class 0;
+Signal '3V3'      'U$1'      '3V3' \
+                  'U$4'      'VIN' \
+                  'U1'       'VCC' \
+                  ;
+Change Class 0;
+Signal 'BUZZER'   'SG1'      '+' \
+                  'U$1'      '2' \
+                  ;
+Change Class 0;
+Signal 'CS'       'U$1'      '10/CS' \
+                  'U$4'      'CS' \
+                  ;
+Change Class 0;
+Signal 'GND'      'BATT'     '2' \
+                  'IC1'      '2' \
+                  'LED1'     'K' \
+                  'LED2'     'K' \
+                  'PY1'      'OUT' \
+                  'PY2'      'OUT' \
+                  'SERVOX'   '1' \
+                  'SERVOY'   '1' \
+                  'SG1'      '-' \
+                  'U$1'      'GND' \
+                  'U$4'      'GND' \
+                  'U1'       'GND' \
+                  ;
+Change Class 0;
+Signal 'GREENLED' 'LED1'     'A' \
+                  'U$1'      '8' \
+                  ;
+Change Class 0;
+Signal 'N$2'      'PY2'      'IN' \
+                  'Q2'       'D' \
+                  ;
+Change Class 0;
+Signal 'N$5'      'U1'       'XDA' \
+                  ;
+Change Class 0;
+Signal 'N$6'      'U1'       'XCL' \
+                  ;
+Change Class 0;
+Signal 'N$7'      'U1'       'ADO' \
+                  ;
+Change Class 0;
+Signal 'N$8'      'U1'       'INT' \
+                  ;
+Change Class 0;
+Signal 'N$14'     'U$4'      '3V0' \
+                  ;
+Change Class 0;
+Signal 'N$16'     'PY1'      'IN' \
+                  'Q1'       'D' \
+                  ;
+Change Class 0;
+Signal 'PY1'      'Q1'       'G' \
+                  'U$1'      '29' \
+                  ;
+Change Class 0;
+Signal 'PY2'      'Q2'       'G' \
+                  'U$1'      '30' \
+                  ;
+Change Class 0;
+Signal 'REDLED'   'LED2'     'A' \
+                  'U$1'      '6' \
+                  ;
+Change Class 0;
+Signal 'SCK'      'U$1'      '13/SCK' \
+                  'U$4'      'SCK' \
+                  ;
+Change Class 0;
+Signal 'SCL'      'U$1'      '19/A5/SCL' \
+                  'U1'       'SCL' \
+                  ;
+Change Class 0;
+Signal 'SDA'      'U$1'      '18/A4/SDA' \
+                  'U1'       'SDA' \
+                  ;
+Change Class 0;
+Signal 'SDI'      'U$1'      '11/MOSI' \
+                  'U$4'      'SDI' \
+                  ;
+Change Class 0;
+Signal 'SDO'      'U$1'      '12/MISO' \
+                  'U$4'      'SDO' \
+                  ;
+Change Class 0;
+Signal 'SERVOX'   'SERVOX'   '3' \
+                  'U$1'      '3/CANTX' \
+                  ;
+Change Class 0;
+Signal 'SERVOY'   'SERVOY'   '3' \
+                  'U$1'      '5' \
+                  ;

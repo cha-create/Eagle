@@ -1,0 +1,42 @@
+Partlist
+
+Exported from Schematic.brd at 12/26/2022 7:41 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package                     Library        Position (mm)         Orientation
+
+BUZZ1    CMI-1295-0585T CMI12950585T                CMI-1295-0585T (114.23 28.33)        R0 DONE
+C1       10uF           C1206                       rcl            (12.74 51.13)         R0		   DONE
+C2       1uF            C1206                       rcl            (6.36 51.13)          R0		   DONE
+C3       22pF           C1206                       rcl            (83.47 30.79)         R90		   DONE
+C4       22pF           C1206                       rcl            (87.27 30.84)         R90		   DONE
+C5       0.1uF          C1206                       rcl            (12.89 45.43)         R0		   DONE
+C6       10uF/25V       C1206                       rcl            (6.42 45.57)          R0		   DONE
+DS1      LTD-2701JD     DIPS762W50P254L1502H635Q10N LTD-2701JD     (91.23 5.64)          R90 DONE
+DS2      LTD-2701JD     DIPS762W50P254L1502H635Q10N LTD-2701JD     (108.63 5.6)          R90 DONE
+IC1      ATMEGA328-20P  DIL28-3                     atmega328      (93.35 40.46)         R0	   DONE
+IC2      7805TV         TO220V                      linear         (120.43 40.27)        R270		   DONE
+IC3      MAX7219CNG     DIL24-3                     maxim          (89.96 21.09)         R0	   DONE
+JP1                     1X02                        pinhead        (120.3 50)            R90		   DONE
+JP2      I2C            1X04                        pinhead        (101.54 50.59)        R180		   DONE
+JP3                     1X06                        pinhead        (3.49 18.93)          R90		   DONE
+LED1                    LED5MM                      led            (66.75 46.06)         R180		   DONE
+Q1       16Mhz          QS                          special        (98.15 31.75)         R180		   DONE
+R1       10K            R1206                       rcl            (25.68 45.43)         R0		   DONE		   
+R2       10K            R1206                       rcl            (32.2 51.23)          R0		   DONE
+R3       470 Ohm        R1206                       rcl            (67.94 38.43)         R180		   DONE
+R4       10K            R1206                       rcl            (25.52 51.13)         R0		   DONE
+R5       10K            R1206                       rcl            (19.34 45.43)         R0		   DONE
+R6       10K            R1206                       rcl            (19.16 51.13)         R0		   DONE
+R7       10K            R1206                       rcl            (32.36 45.48)         R0		   DONE
+R8       100Ohm         R1206                       rcl            (111.17 49.37)        R0		   DONE
+S1                      B3F-10XX                    switch-omron   (69.92 31.18)         R0		   DONE	   
+S2                      B3F-10XX                    switch-omron   (59.36 13.88)         R0		   DONE
+S3                      B3F-10XX                    switch-omron   (69.8 9.68)           R0		   DONE
+S4                      B3F-10XX                    switch-omron   (59.34 5.48)          R0		   DONE
+S5                      B3F-10XX                    switch-omron   (48.62 9.64)          R0		   DONE
+
+60.68 total cost not including tax
